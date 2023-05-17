@@ -33,7 +33,7 @@ In this assignment a multiple linear regression model has been created to predic
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Santanu659] - feel free to contact me!
 
 
 <!-- Optional -->
