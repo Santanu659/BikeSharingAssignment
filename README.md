@@ -4,7 +4,7 @@ In this assignment a multiple linear regression model has been created to predic
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Tools Used](#technologies-used)
+* [Tools Used](#tools-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
